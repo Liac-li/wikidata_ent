@@ -1,1 +1,11 @@
 data/*.txt filter=lfs diff=lfs merge=lfs -text
+data/STATE_OR_PROVINCE.txt filter=lfs diff=lfs merge=lfs -text
+data/per.txt filter=lfs diff=lfs merge=lfs -text
+data/COUNTRY.txt filter=lfs diff=lfs merge=lfs -text
+data/LOCATION.txt filter=lfs diff=lfs merge=lfs -text
+data/PERSON.txt filter=lfs diff=lfs merge=lfs -text
+data/RELIGION.txt filter=lfs diff=lfs merge=lfs -text
+data/CITY.txt filter=lfs diff=lfs merge=lfs -text
+data/IDEOLOGY.txt filter=lfs diff=lfs merge=lfs -text
+data/ORGANIZATION.txt filter=lfs diff=lfs merge=lfs -text
+data/TITLE.txt filter=lfs diff=lfs merge=lfs -text

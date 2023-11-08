@@ -6,7 +6,6 @@ import threading
 
 from config import Config as config
 
-
 def wikipage_iter(config):
     wikidata_file = config.FILE_PATH
 
